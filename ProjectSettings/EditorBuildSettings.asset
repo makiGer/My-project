@@ -9,14 +9,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: a7f79d867dc6e764ba875560d7937b28
   - enabled: 1
+    path: Assets/Scenes/Triangular 1.unity
+    guid: 6f8956b6c87c64948b5ade783d51b2c0
+  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
-    path: Assets/Scenes/Triangular.unity
-    guid: adae72b870ab65944a4b101cde33e990
+    path: Assets/Scenes/Triangular Vector.unity
+    guid: 4816cfc577f85d84094a76d0a9258df1
   - enabled: 1
-    path: Assets/Scenes/Triangular 1.unity
-    guid: 6f8956b6c87c64948b5ade783d51b2c0
+    path: Assets/Scenes/Parallelogram Law Of Addition.unity
+    guid: 30121baf908d25d4f94ba11fb2d36817
+  - enabled: 1
+    path: Assets/Scenes/Vector Subtraction.unity
+    guid: 2e314f874cf9b89428b7b825d04c4ad7
+  - enabled: 1
+    path: Assets/Scenes/VecSubAns.unity
+    guid: e0b544a1665274346bd628870b3f3d2c
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: b714d19613b081a45a75e908dd68a7c5, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: cb9daa46e0eeb4e45bb69a7af2dbd65c, type: 2}
