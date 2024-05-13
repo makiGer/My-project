@@ -24,8 +24,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Vector Subtraction.unity
     guid: 2e314f874cf9b89428b7b825d04c4ad7
   - enabled: 1
-    path: Assets/Scenes/VecSubAns.unity
-    guid: e0b544a1665274346bd628870b3f3d2c
+    path: Assets/Scenes/Orthogonal.unity
+    guid: 433a36128f15f9342bd954d45f7b3d5b
+  - enabled: 1
+    path: Assets/Scenes/Components Of Vectors.unity
+    guid: f7ae6cdce08daf747b96ca2a0a062126
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: b714d19613b081a45a75e908dd68a7c5, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: cb9daa46e0eeb4e45bb69a7af2dbd65c, type: 2}

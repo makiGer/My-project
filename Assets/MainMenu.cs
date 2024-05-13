@@ -29,8 +29,12 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync(5);
     }
-    public void VecSubAns()
+    public void Ortho()
     {
         SceneManager.LoadSceneAsync(6);
+    }
+    public void Compo()
+    {
+        SceneManager.LoadSceneAsync(7);
     }
 }
